@@ -1024,6 +1024,11 @@ main {
   line-height: 1.5;
   z-index: 2;
 }
+
+.start__row {
+  display:flex;
+}
+
 .start__button {
   padding: 20px 40px;
   border-radius: 500px;
